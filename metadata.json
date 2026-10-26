@@ -1,0 +1,11 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Copy of Copy of NovaMind GPT",
+  "description": "An emotionally aware AI companion that uses your camera to sense your inner state and respond with empathy, guidance, and resonance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
